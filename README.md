@@ -1,3 +1,3 @@
 # agile-final-project
-By Fidelis Kanu
+By Fidelis Kanu.
 IBM 
